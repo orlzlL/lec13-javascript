@@ -22,3 +22,5 @@ console.log(typeof student);
 console.log(student.getInfo);
 console.log(student.getInfo());
 
+student.name = '강감찬';
+console.log(student.getInfo());
